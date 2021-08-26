@@ -638,16 +638,27 @@ input, select, textarea {
 		}
 
 /* Image */
+.mst img {
+
+	width: 550px;
+}
+.half img {
+	width: 550px;
+}
 .half1 img {
-	width: 300px;
+	width: 250px;
 }
 .half2 img {
-	width: 600px;
+	width: 400px;
 }
 .content img {
 	border-radius: 50%;
 
 }
+.half4 img {
+	width: 350px;
+}
+
 
 .image.main img {
 	border-radius: 100%;
